@@ -1,0 +1,70 @@
+/* ========================= index.html ======================= */
+/* ============================================================ */
+#navbar .logo {
+    float: none;    /* specifies how an element should float */
+    text-align: center;
+  }
+  
+  #navbar ul, #navbar ul li {
+    float: none;
+  }
+  
+  #navbar ul li a {
+    padding: 5px;
+    border-bottom: #000 solid 1px;
+  }
+  
+  /* Showcase */
+  #showcase {
+    height: 100%;
+  }
+  
+  #showcase .showcase-content {
+    padding-top: 70px;
+    padding-bottom: 30px;
+  }
+  
+  /* Home Info */
+  #home-info {
+    height: 550px;
+  }
+  
+/* The image will be hidden when the screen is less than 769px. */
+  #home-info .info-img {
+    display: none;      /* used with JavaScript to hide and show elements without deleting and recreating them. */
+  }
+  
+  #home-info .info-content {
+    float: none;
+    width: 100%;
+  }
+  
+  /* Boxes */
+  .box {
+    float: none;
+    width: 100%;
+  }
+  /* ============================================================ */
+  
+  /* ========================= about.html ======================= */
+  /* ============================================================ */
+  #about-info .info-right, #about-info .info-left {
+    float: none;
+    width: 100%;
+  }
+  
+  #about-info .info-right {
+    margin-top: 30px;
+  }
+  
+  .l-heading {
+    text-align: center;
+  }
+  /* ============================================================ */
+  
+  /* contact.html */
+  /* ============================================================ */
+  #contact-info .box {
+    border-bottom: #000 solid 1px;
+  }
+  /* ============================================================ */

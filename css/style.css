@@ -94,6 +94,11 @@ p {
     color: #000;
 }
 
+#navbar .logo {
+    float: left;
+    padding-top: 20px;
+}
+  
 #navbar h1 {
     float: left;
     padding-top: 20px;
@@ -235,7 +240,7 @@ p {
     margin-bottom: 40px;
     border-radius: 5px;
     opacity: 0.9;
-    height: 130px;
+    height: 150px;
   }
   
   #testimonials .testimonial img {
